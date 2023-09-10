@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Petr Popov
+- 👀 I’m interested in programming on python
+- 🌱 I’m currently learning in the 11th grade at school
+- 📫 How to reach me: tg @iamdevelop3r 
